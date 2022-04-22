@@ -1,6 +1,6 @@
 ### Hi, I'm Rizky 👋
 
-A Game Programmer and an iOS Developer Enthusiast, who's passionate and cheerful person, likes to learn new things. Skilled in swift programming and game programming and have interest in solving end-user problem. He also loves anything involve with gamification and game design. Enjoys working collaboratively and took responsibility very seriously.
+A Game Programmer and an iOS Developer Enthusiast, who's passionate and cheerful person, likes to learn new things. Skilled in swift programming and game programming and have interest in solving end-user problem. He also loves anything involve with UI/UX and game design. Enjoys working collaboratively and took responsibility very seriously.
 
 Currently, is a Game Programmer at Arsanesia. <!--And looking for the oportunity to work and grow as an iOS Developer.-->
 
