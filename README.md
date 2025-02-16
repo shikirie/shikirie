@@ -4,10 +4,6 @@ A Game Programmer and an iOS Developer Enthusiast, who's passionate and cheerful
 
 Currently, is a Game Programmer at Arsanesia. <!--And looking for the oportunity to work and grow as an iOS Developer.-->
 
-🔗 LinkedIn  : https://www.linkedin.com/in/rizkyakm/
-
-🔗 Portfolio : http://bit.ly/PortfolioRizkyAKM
-
 <!--
 **shikirie/shikirie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
