@@ -1,4 +1,4 @@
-### Hi, I'm Rizky 👋
+### Hi, I'm Rizky 👋 a UI Programmer passionate about building elegant and interactive interfaces for games.
 
 Passionate and detail-oriented Game Programmer with a strong focus on UI/UX implementation, gameplay systems, and rapid prototyping. Skilled in Unity and C#, with hands-on experience in both shipped and prototyped games across various genres. I enjoy crafting intuitive player interactions and collaborating closely with designers, artists, and fellow programmers to bring compelling experiences to life. Always eager to learn new tools and techniques, and take pride in being a reliable, solutions-driven team member.
 
