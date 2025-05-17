@@ -1,8 +1,12 @@
 ### Hi, I'm Rizky 👋
 
-A Game Programmer and an iOS Developer Enthusiast, who's passionate and cheerful person, likes to learn new things. Skilled in swift programming and game programming and have interest in solving end-user problem. He also loves anything involve with UI/UX and game design. Enjoys working collaboratively and took responsibility very seriously.
+Passionate and detail-oriented Game Programmer with a strong focus on UI/UX implementation, gameplay systems, and rapid prototyping. Skilled in Unity and C#, with hands-on experience in both shipped and prototyped games across various genres. I enjoy crafting intuitive player interactions and collaborating closely with designers, artists, and fellow programmers to bring compelling experiences to life. Always eager to learn new tools and techniques, and take pride in being a reliable, solutions-driven team member.
 
-Currently, is a Game Programmer at Arsanesia. <!--And looking for the oportunity to work and grow as an iOS Developer.-->
+🔭 I’m currently working on Arsanesia as a Game Programmer.
+
+📫 How to reach me: 
+  - Email: shikirie@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/rizkyakm/
 
 <!--
 **shikirie/shikirie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
