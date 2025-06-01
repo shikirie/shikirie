@@ -1,12 +1,13 @@
 ### Hi, I'm Rizky 👋 a UI Programmer passionate about building elegant and interactive interfaces for games.
 
-Passionate and detail-oriented Game Programmer with a strong focus on UI/UX implementation, gameplay systems, and rapid prototyping. Skilled in Unity and C#, with hands-on experience in both shipped and prototyped games across various genres. I enjoy crafting intuitive player interactions and collaborating closely with designers, artists, and fellow programmers to bring compelling experiences to life. Always eager to learn new tools and techniques, and take pride in being a reliable, solutions-driven team member.
+Detail-oriented Game Programmer with 2+ years of experience creating scalable UI/UX systems, gameplay mechanics, and rapid prototypes using Unity and C#. Strong foundation in dependency injection, agile workflows, and remote collaboration. Passionate about building intuitive player experiences and supporting team success. Committed to continuous learning and supporting team growth through knowledge sharing.
 
 🔭 I’m currently working on Arsanesia as a Game Programmer.
 
 📫 How to reach me: 
   - Email: shikirie@gmail.com
   - LinkedIn: https://www.linkedin.com/in/rizkyakm/
+  - Portfolio: https://rizkyakm.carrd.co
 
 <!--
 **shikirie/shikirie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
